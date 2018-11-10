@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cars> 
+   
+  <car regnr="CCC123">	
+    <brand>Volvo</brand>
+    <model>m1</model>
+    <imageurl>www.123.com</imageurl>    
+  </car>  
+
+<car regnr="HJK789">
+    <brand>Audi</brand>
+    <model>m2</model>
+    <imageurl>www.456.com</imageurl>
+  </car>
+
+</cars> 
